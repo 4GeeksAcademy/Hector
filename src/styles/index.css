@@ -1,4 +1,19 @@
-
+.jumbotron {
+    background-color: rgb(153, 152, 152) !important;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(31, 30, 30);
+}
+.footer {
+    background-color: rgb(153, 152, 152) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(31, 30, 30);
+    text-align: center;
+}
 /* 
 
     You can write your own styles here...
